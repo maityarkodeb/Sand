@@ -1,0 +1,15 @@
+{
+    "name": "maityarkodeb.sand",
+    "title": "Sand",
+    "description": "A desert inspired theme for Brackets",
+    "homepage": "https://github.com/maityarkodeb/sand",
+    "version": "1.0.0",
+    "author": "Arkodeb Maity <maityarkodeb@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "dark", "sand"]
+}
